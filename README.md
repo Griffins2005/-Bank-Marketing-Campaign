@@ -16,7 +16,6 @@ The analysis includes:
 ## 🗂 Dataset
 
 The dataset comes from the [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) and is also available on Kaggle.
-It contains **11,162 rows and 17 columns**, including demographic, financial, and contact-related features.
 
 ---
 
@@ -25,7 +24,7 @@ It contains **11,162 rows and 17 columns**, including demographic, financial, an
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Griffins2005/-Bank-Marketing-Campaign.git
 cd <repo-name>
 ```
 
