@@ -36,5 +36,3 @@ jupyter notebook notebook.ipynb
 ```
 
 Or explore the [Kaggle Notebook](https://www.kaggle.com/code/griffinskiptanui/bank-marketing-campaign) version if you prefer.
-
-👉 Do you want me to also make a **short LinkedIn-style project summary** (2–3 sentences) that you can post alongside your GitHub link?
